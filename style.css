@@ -14,7 +14,7 @@ html {
   .birthdayCard {
     position: relative;
     width: 250px;
-    height: 500px;
+    height: 700px;
     cursor: pointer;
     transform-style: preserve-3d;
     transform: perspective(2500px);
@@ -138,7 +138,7 @@ html {
     background-color: #FD7DFF;
     position: absolute;
     width: 250px;
-    height: 500px;
+    height: 700px;
     z-index: -1;
     left: 0;
     top: 0;
